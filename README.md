@@ -1,12 +1,4 @@
 什么值得买每日签到脚本
-===
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Created on-2020.10-green"/>
-    <img src="https://img.shields.io/badge/Python-3.7-blue"/>
-    <img src="https://img.shields.io/badge/Last commit-Dec.-yellow"/>
-    <img src="https://img.shields.io/badge/Repo size-35.8kb-red"/>
-</p>
 
 # 1. 实现功能
 + `什么值得买`每日签到
@@ -36,7 +28,6 @@
 
 # N. Log
 在没有更换`SMZDM_COOKIE`的情况下，截至2020-12-12, 我的账号已正常签到68天，具体`SMZDM_COOKIE`有效时间继续验证。  
-<img src="pics/log_20201212.jpg" width="300" height="200" alt="签到截图" div align=center /><br/>
 
 + 2020-10-08  
 first push
